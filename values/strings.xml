@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Daftar Makanan Kekinian Surabaya</string>
+    <string name="makanan">makanan</string>
+    <string name="namamakanan">namamakanan</string>
+    <string name="harga">harga</string>
+    <string name="namefood">nameFood</string>
+    <string name="deskripsifood">deskripsiFood</string>
+    <string name="alamatfood">alamatFood</string>
+    <string name="app_by_diah_fatmawati">App by diah fatmawati</string>
+    <string name="jajan_kekinian_arek_arek_suroboyo">Jajan Kekinian Arek-Arek suroboyo</string>
+    <string name="kuliner_kekinian_surabaya">Kuliner Kekinian Surabaya</string>
+</resources>
